@@ -26,4 +26,4 @@ module.exports = withTM({
 
     return config
   }
-})
+});
